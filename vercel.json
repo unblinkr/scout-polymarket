@@ -15,7 +15,7 @@
   "crons": [
     {
       "path": "/alert/arbitrage",
-      "schedule": "*/5 * * * *"
+      "schedule": "0 9 * * *"
     }
   ]
 }
